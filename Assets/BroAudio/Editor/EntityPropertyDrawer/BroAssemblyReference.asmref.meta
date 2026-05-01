@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 4870632b83f165b4eb7324434ca45fbe
+AssemblyDefinitionReferenceImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 257362
+  packageName: Bro Audio
+  packageVersion: 3.1.2
+  assetPath: Assets/BroAudio/Editor/EntityPropertyDrawer/BroAssemblyReference.asmref
+  uploadId: 886448
